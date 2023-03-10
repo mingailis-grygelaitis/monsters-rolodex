@@ -13,3 +13,9 @@ body {
   );
   text-align: center;
 }
+
+.app-title {
+  margin: 25px;
+  color: #0c00ac;
+  font-family: 'Zeyada';
+}
